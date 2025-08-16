@@ -11,6 +11,7 @@ def greet_user():
 def main():
     """Main function."""
     greet_user()
+    print("Hello from testtest-1")
     print("Application completed successfully!")
 
 if __name__ == "__main__":
